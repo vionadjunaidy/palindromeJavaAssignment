@@ -27,8 +27,4 @@ public class arrayStack {
     public boolean isEmpty() {
         return top == 0;
     }
-
-    public int size() {
-        return top;
-    }
 }
